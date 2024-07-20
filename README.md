@@ -1,4 +1,5 @@
-**Student Management - Full Stack CRUD Application**
+# Student Management - Full Stack CRUD Application
+
 **TECH STACKS : Springboot, Reactjs and MongoDB**
 
 ![image](https://github.com/user-attachments/assets/eea8b7b0-893f-45a8-9124-ffa76d85307c)
