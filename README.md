@@ -1,2 +1,3 @@
-# Student-Management---Full-Stack-
-Student Management - Full Stack using Spring Boot , ReactJS and MongoDB
+# Full-Stack Student Management 
+
+# Student Management - Full Stack using Spring Boot , ReactJS and MongoDB
